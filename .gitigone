@@ -1,0 +1,29 @@
+.*
+**/.*
+
+# Compiled binaries and build output
+*.o
+*.obj
+*.a
+*.so
+*.dll
+*.dylib
+*.exe
+*.bin
+*.elf
+*.iso
+*.img
+*.out
+build/
+dist/
+out/
+
+# Temporary and generated files
+*.tmp
+*.temp
+*.log
+*.swp
+*.swo
+*~
+__pycache__/
+*.py[cod]
