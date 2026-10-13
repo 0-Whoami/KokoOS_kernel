@@ -1,4 +1,5 @@
 .*
+.*/*
 **/.*
 
 # Compiled binaries and build output
